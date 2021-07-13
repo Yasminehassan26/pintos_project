@@ -176,7 +176,7 @@ void thread_tick(void)
     }
   }
 }
-void update_priority() //7atedrab interrupt
+void update_priority() 
 {
   struct list_elem *element;
 
